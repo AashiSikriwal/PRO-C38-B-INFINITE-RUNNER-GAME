@@ -1,1 +1,2 @@
-# PRO-C38-B-INFINITE-RUNNER-GAME
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
